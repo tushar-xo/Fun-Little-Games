@@ -21,6 +21,9 @@
     <ClInclude Include="RockPaperScissors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AdventureGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TicTacToe.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="RockPaperScissors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdventureGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
